@@ -155,8 +155,8 @@ export default function QuickCleanSection({
         aria-controls="quick-clean-panel"
       >
         <div className="flex items-center gap-4">
-          <div className="w-12 h-12 rounded-lg bg-lime-pulse/10 border border-lime-pulse/30 flex items-center justify-center flex-shrink-0">
-            <Sparkles size={32} className="text-lime-pulse" />
+          <div className="w-14 h-14 rounded-lg bg-lime-pulse/10 border border-lime-pulse/30 flex items-center justify-center flex-shrink-0">
+            <Sparkles size={36} className="text-lime-pulse" />
           </div>
           <div>
             <h3 className="font-goga text-heading-sm text-phosphor-white">
