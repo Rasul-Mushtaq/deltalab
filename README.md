@@ -39,3 +39,7 @@ npm run dev
 ```
 
 Open the local URL printed in the terminal (via http://localhost:5173) and drop in a dataset to get started.
+
+### Live Demo
+
+You can view the app here: **[DeltaLab](https://deltalab-app.netlify.app)**
