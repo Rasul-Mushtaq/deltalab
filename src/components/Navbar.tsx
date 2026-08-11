@@ -16,7 +16,7 @@ export default function Navbar({ metadata, health }: NavbarProps) {
       <div className="mx-auto max-w-page rounded-xl border border-white/10 bg-slate-900/80 backdrop-blur-md shadow-lg px-6 py-3 flex items-center justify-between">
         <div className="flex items-center gap-3 min-w-0">
           <a
-            href="#"
+            href="/"
             className="flex items-center gap-3 group flex-shrink-0"
             aria-label="DeltaLab - Data Health Inspector"
           >
