@@ -2,6 +2,8 @@
 
 DeltaLab is an instant data profiling and dataset health inspector. Drop in a CSV or JSON file and get a full statistical profile, a health score, and useful cleaning tools, all without sending your data anywhere.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge)](https://deltalab-app.netlify.app)
+
 ## Key Features
 
 - **Dataset metrics**: row and column counts, file size, and per-column statistics like mean, median, std dev, and outliers.
@@ -39,7 +41,3 @@ npm run dev
 ```
 
 Open the local URL printed in the terminal (via http://localhost:5173) and drop in a dataset to get started.
-
-### Live Demo
-
-You can view the app here: **[DeltaLab](https://deltalab-app.netlify.app)**
