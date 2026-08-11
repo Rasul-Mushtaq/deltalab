@@ -156,7 +156,7 @@ export default function QuickCleanSection({
       >
         <div className="flex items-center gap-4">
           <div className="w-12 h-12 rounded-lg bg-lime-pulse/10 border border-lime-pulse/30 flex items-center justify-center flex-shrink-0">
-            <Sparkles size={32} text-lime-pulse" />
+            <Sparkles size={32} className="text-lime-pulse" />
           </div>
           <div>
             <h3 className="font-goga text-heading-sm text-phosphor-white">
