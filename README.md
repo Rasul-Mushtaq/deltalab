@@ -29,8 +29,8 @@ DeltaLab is an instant data profiling and dataset health inspector. Drop in a CS
 Clone the repo and install dependencies:
 
 ```bash
-git clone <https://github.com/Rasul-Mushtaq/deltalab>
-cd deltalab-data-health-inspector
+git clone https://github.com/Rasul-Mushtaq/deltalab.git
+cd deltalab
 npm install
 ```
 
