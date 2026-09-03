@@ -3,6 +3,7 @@
 DeltaLab is an instant data profiling and dataset health inspector. Drop in a CSV or JSON file and get a full statistical profile, a health score, and useful cleaning tools, all without sending your data anywhere.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge)](https://deltalab-app.netlify.app)
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 
 ## Key Features
 
